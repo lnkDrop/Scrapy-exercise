@@ -1,2 +1,3 @@
-# Scrapy-exercise
-爬虫框架Scrapy练习
+# 爬虫框架Scrapy学习记录库
+## 自学参考
+-------
